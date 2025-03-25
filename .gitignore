@@ -1,0 +1,12 @@
+node_modules
+
+/.cache
+/build
+/public/build
+.env
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/remix-shadcn-starter.iml
+/.idea/UniappTool.xml
+/.idea/vcs.xml
